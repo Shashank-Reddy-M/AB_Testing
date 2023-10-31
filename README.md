@@ -1,7 +1,8 @@
 # AB-Testing with Cookie Cats Game
 <p align="center">
-  <img width="900" alt="187047952-d71eda19-b4d4-43ba-acd2-c71bc43035cb" src="https://github.com/Shashank-Reddy-M/AB_Testing/assets/114110108/0a945830-2b68-4003-b302-2dde7edf32ba">
+  <img width="900" alt="maxresdefault" src="https://github.com/Shashank-Reddy-M/AB_Testing/assets/114110108/50a98920-2fe2-4e58-bbf6-ddd36253a405">
 </p>
+
 
 Cookie Cats is a fun and addictive mobile puzzle game by Tactile Entertainment that has gained immense popularity. In this classic "connect three" style game, the player must connect tiles of the same color to clear the board and win the level. One of the unique features of the game is the presence of singing cats. 
 
